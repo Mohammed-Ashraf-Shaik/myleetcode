@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0875-koko-eating-bananas) |
+| [2239-find-closest-number-to-zero](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
