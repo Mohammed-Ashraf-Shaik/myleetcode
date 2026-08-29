@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
+| [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2469-convert-the-temperature) |
 ## Brainteaser
 |  |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
