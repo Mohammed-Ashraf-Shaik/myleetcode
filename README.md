@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2469-convert-the-temperature) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
