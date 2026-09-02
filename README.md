@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2469-convert-the-temperature) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2239-find-closest-number-to-zero](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2239-find-closest-number-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
