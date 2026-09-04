@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2239-find-closest-number-to-zero](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2239-find-closest-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
