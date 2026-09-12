@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
