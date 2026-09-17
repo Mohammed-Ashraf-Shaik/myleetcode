@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0875-koko-eating-bananas) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3903-smallest-stable-index-i) |
