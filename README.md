@@ -45,6 +45,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
