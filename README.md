@@ -1,4 +1,23 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🧩 LeetCode Solutions & Algorithm Practice
+
+A curated repository of algorithmic problem solutions and data structures practiced on [LeetCode](https://leetcode.com/u/Shaik_mohameed_Ashraf/). Synchronized and organized using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-Data%20Structures-blue?style=for-the-badge)
+![Profile](https://img.shields.io/badge/Profile-Shaik__mohameed__Ashraf-orange?style=for-the-badge)
+
+---
+
+## 📊 Live LeetCode Progress & Heatmap
+
+<p align="center">
+  <a href="https://leetcode.com/u/Shaik_mohameed_Ashraf/">
+    <img src="https://leetcard.jacoblin.cool/Shaik_mohameed_Ashraf?theme=dark&font=Karma&ext=heatmap" alt="Shaik Mohammed Ashraf LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
