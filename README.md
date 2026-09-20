@@ -38,6 +38,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
 | [1025-divisor-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -51,6 +52,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0553-optimal-division) |
 | [1025-divisor-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2469-convert-the-temperature) |
@@ -88,6 +90,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0485-max-consecutive-ones) |
+| [0553-optimal-division](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0713-subarray-product-less-than-k) |
