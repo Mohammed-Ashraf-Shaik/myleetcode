@@ -90,6 +90,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0503-next-greater-element-ii) |
 | [0553-optimal-division](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
@@ -161,10 +162,12 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
