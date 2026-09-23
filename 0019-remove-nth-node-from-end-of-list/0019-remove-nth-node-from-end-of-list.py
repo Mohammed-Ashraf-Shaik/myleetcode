@@ -10,16 +10,13 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        l=0
-        c=head
-        while c:
-            c=c.next
-            l+=1
-        p=l-n
-        if p==0:
-            return head.next
-        c=head
-        for i in range(p-1):
-            c=c.next
-        c.next=c.next.next
-        return head
+        dummy = ListNode(0, head)
+        s = dummy
+        f = dummy
+        for i in range(n + 1):
+            f = f.next
+        while f:
+            s=s.next
+            f=f.next
+        s.next=s.next.next
+        return dummy.next
