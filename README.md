@@ -31,6 +31,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0503-next-greater-element-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
