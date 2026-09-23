@@ -23,6 +23,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
@@ -207,6 +208,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
