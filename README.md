@@ -29,6 +29,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0141-linked-list-cycle](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
@@ -55,6 +56,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0292-nim-game) |
@@ -96,6 +98,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0485-max-consecutive-ones) |
