@@ -152,6 +152,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0206-reverse-linked-list) |
@@ -227,6 +228,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
