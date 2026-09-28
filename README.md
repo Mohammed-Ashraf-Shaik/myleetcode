@@ -69,6 +69,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [1025-divisor-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2469-convert-the-temperature) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3870-count-commas-in-range](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -86,6 +87,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0292-nim-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1025-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0735-asteroid-collision) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Stack
 |  |
 | ------- |
