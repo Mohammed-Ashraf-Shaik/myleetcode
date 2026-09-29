@@ -57,6 +57,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
@@ -101,6 +102,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -190,6 +192,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0503-next-greater-element-ii) |
