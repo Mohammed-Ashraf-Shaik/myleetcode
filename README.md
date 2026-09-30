@@ -39,6 +39,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0415-add-strings) |
@@ -191,6 +192,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
@@ -253,4 +255,8 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
