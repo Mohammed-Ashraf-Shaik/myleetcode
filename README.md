@@ -103,6 +103,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0189-rotate-array) |
@@ -194,6 +195,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0234-palindrome-linked-list) |
@@ -205,6 +207,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
@@ -259,4 +262,8 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
