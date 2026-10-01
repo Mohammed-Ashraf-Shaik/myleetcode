@@ -103,6 +103,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
@@ -266,4 +267,12 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
