@@ -40,6 +40,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0415-add-strings) |
@@ -48,6 +49,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0553-optimal-division) |
@@ -263,6 +265,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
