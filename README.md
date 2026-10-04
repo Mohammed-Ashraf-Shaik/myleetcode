@@ -47,6 +47,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0415-add-strings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0509-fibonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Math
@@ -206,6 +208,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -240,6 +243,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Linked List
 |  |
@@ -270,6 +274,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0020-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
