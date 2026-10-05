@@ -48,6 +48,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -275,6 +277,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0856-score-of-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
