@@ -43,6 +43,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -292,8 +293,13 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0051-n-queens) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
