@@ -1,47 +1,44 @@
 class Solution:
     def removeInvalidParentheses(self, s: str):
-        ans = set()
+        st = set()
+        n = len(s)
         maxLen = 0
 
-        def solve(i, count, cur):
-            nonlocal maxLen
+        def solve(i, curr, count):
+            nonlocal maxLen#bhai nonlocal katho outer ka value inner def me change kareja
 
-            # Invalid prefix
             if count < 0:
                 return
 
-            # End of string
-            if i == len(s):
+            if i == n:
                 if count == 0:
-                    if len(cur) > maxLen:
-                        ans.clear()
-                        maxLen = len(cur)
-                        ans.add(cur)
+                    if len(curr) > maxLen:
+                        maxLen = len(curr)
+                        st.clear()
+                        st.add("".join(curr))
 
-                    elif len(cur) == maxLen:
-                        ans.add(cur)
+                    elif len(curr) == maxLen:
+                        st.add("".join(curr))
                 return
 
-            # Current character is '('
-            if s[i] == "(":
-                # Remove
-                solve(i + 1, count, cur)
+            if s[i] != '(' and s[i] != ')':
+                curr.append(s[i])
+                solve(i + 1, curr, count)
+                curr.pop()
+                return
 
-                # Keep
-                solve(i + 1, count + 1, cur + "(")
+            curr.append(s[i])# tree me rakh ne ke vaste 
 
-            # Current character is ')'
-            elif s[i] == ")":
-                # Remove
-                solve(i + 1, count, cur)
+            solve(
+                i + 1,
+                curr,
+                count + (1 if s[i] == '(' else -1)
+            )
 
-                # Keep
-                solve(i + 1, count - 1, cur + ")")
+            curr.pop()# tree me rakhiso nikal dalu
 
-            # Normal character
-            else:
-                solve(i + 1, count, cur + s[i])
+            solve(i + 1, curr, count)# use remove kar dalu
 
-        solve(0, 0, "")
+        solve(0, [], 0)
 
-        return list(ans)
+        return list(st)
