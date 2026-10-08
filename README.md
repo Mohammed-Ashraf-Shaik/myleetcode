@@ -51,6 +51,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0739-daily-temperatures](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -284,6 +286,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
