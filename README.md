@@ -135,6 +135,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2239-find-closest-number-to-zero](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -147,6 +148,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,10 +165,12 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0678-valid-parenthesis-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Linked List
 |  |
