@@ -138,6 +138,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -314,4 +315,8 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
