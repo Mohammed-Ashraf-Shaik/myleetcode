@@ -139,6 +139,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -200,6 +201,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -319,4 +322,8 @@ A curated repository of algorithmic problem solutions and data structures practi
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
