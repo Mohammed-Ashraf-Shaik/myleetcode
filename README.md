@@ -135,6 +135,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -153,6 +154,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
@@ -170,6 +172,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | ------- |
 | [0169-majority-element](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0658-find-k-closest-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
