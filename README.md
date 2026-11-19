@@ -53,6 +53,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -221,6 +222,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0412-fizz-buzz](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Stack
 |  |
