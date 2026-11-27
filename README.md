@@ -85,6 +85,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [1137-n-th-tribonacci-number](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2469-convert-the-temperature) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -224,6 +225,7 @@ A curated repository of algorithmic problem solutions and data structures practi
 | [0735-asteroid-collision](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/0735-asteroid-collision) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/Mohammed-Ashraf-Shaik/myleetcode/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
